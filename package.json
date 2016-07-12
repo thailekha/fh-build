@@ -1,0 +1,20 @@
+{
+  "name": "fh-build",
+  "version": "1.0.14",
+  "description": "A module for building RHMAP components",
+  "main": "./index.js",
+  "bin": {
+    "fh-build": "./build.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "fh",
+    "fh-build",
+    "feedhenry",
+    "rhmap"
+  ],
+  "author": "Pavel Sturc <psturc@redhat.com>",
+  "license": "Apache-2.0s"
+}
